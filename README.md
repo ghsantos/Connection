@@ -1,5 +1,7 @@
 # Connection
 
+#### layout baseado em: https://dribbble.com/shots/3129154-Connection-Discovery
+
 ## Instalação do app
 
 ```
